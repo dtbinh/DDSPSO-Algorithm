@@ -1,0 +1,2 @@
+#!/bin/sh
+matlab -r -nodisplay run_DDSPSO_swarms_3
